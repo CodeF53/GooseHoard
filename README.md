@@ -15,6 +15,6 @@ For /L %%A IN (1, 1, %numGeese%) do START /B GooseDesktop
 ##### Step 1: 
 Make the bat file
 ##### Step 2:
-<a href="https://superuser.com/questions/868340/how-can-i-convert-a-windows-batch-script-to-a-exe">Convert the bat to an EXE</a>
+<a href="https://www.bat2exe.net/">Convert the bat to an EXE</a>
 ##### Step 3:
 Set the icon in the properties menu
