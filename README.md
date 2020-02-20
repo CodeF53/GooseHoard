@@ -10,11 +10,10 @@ Summon your own personal Hoard of Desktop Geese
 set /p numGeese="How many geese do you need? "
 For /L %%A IN (1, 1, %numGeese%) do START /B GooseDesktop
 ```
-
-### To make your own exe with the fancy icon:
+### To make your own with the fancy icon:
 ##### Step 1: 
 Make the bat file
 ##### Step 2:
-<a href="https://www.bat2exe.net/">Convert the bat to an EXE</a>
+Make a shortcut to the bat file
 ##### Step 3:
-Set the icon in the properties menu
+Set the icon of that shortcut
