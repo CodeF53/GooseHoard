@@ -2,7 +2,7 @@
 Summon your own personal Hoard of Desktop Geese
 
 ## Download
-//Link to Releases
+[download](https://github.com/CodeF53/GooseHoard/releases/tag/1.0)
 
 ## Source Code
 ### This is literally just a bat file:
